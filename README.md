@@ -1,2 +1,2 @@
 # Quality-Assurance
-Explore all about quality assurance
+Repository to save Repository to save studies about quality assurance
