@@ -1,4 +1,5 @@
 Explore quality assuranse
 - Learn about GIT and GITHUB
+  - Create repository in GITHUB
 - Automation testing API with Postman
 - 
