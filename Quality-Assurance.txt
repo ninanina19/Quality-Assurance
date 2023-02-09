@@ -1,3 +1,4 @@
 Explore quality assuranse
 - Learn about GIT and GITHUB
+- Automation testing API with Postman
 - 
