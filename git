@@ -1,0 +1,17 @@
+Create git folder in the Desktop directory using Git Bash
+--------------------------------------------------------------------------------------------
+1. Open Git Bash
+2. input 'pwd' and Enter to show the current directory that opened
+    pwd stands for Print Working Directory
+3. input 'cd Desktop' and Enter to switch current directories into Desktop directory
+    cd stands for Change Directory.
+4. input 'mkdir qa-test-repo2' and Enter to create new folder
+    mkdir stands for Make Directory
+
+Initialize folder qa-test-repo2 to be git repository
+---------------------------------------------------------------------------------------------
+5. input 'cd qa-test-repo2' to move directory into qa-test-repo2
+6. input 'git init' and Enter to initialized folder to be git repository
+
+=============================================================================================
+Create Git Brance
